@@ -1,14 +1,6 @@
 import React from "react";
 import { Link } from "@inertiajs/react";
 import Navbar from "@/components/navbar-nav";
-import {
-    NavigationMenu,
-    NavigationMenuList,
-    NavigationMenuItem,
-    NavigationMenuTrigger,
-    NavigationMenuContent,
-} from "@/components/ui/navigation-menu";
-
 
 export default function Home() {
     return (
